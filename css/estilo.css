@@ -1,0 +1,48 @@
+/*body{
+    background-color: #20bfeb55;
+    color: wheat;
+}
+div{
+    background-color: brown;
+}
+h1{
+    color: black;
+    text-align: center;
+}*/
+
+.cabecera{
+    background-image: url("../img/cabecera.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-color:bisque;
+    height: 250px;
+    padding-top: 100px;
+    text-align: center;
+}
+.titulo1{
+    color:chartreuse;
+}
+.navbar{
+    background-color: white;
+    color: white;
+}
+.navegacion{
+    background-color: white;
+}
+#titulo2{
+    color:blueviolet;
+}
+.barralateral{
+    background-color: antiquewhite;
+    color:blue;
+}
+.tabla{
+    display: inline-block;
+}
+.grilla{
+    background-color: red;
+}
+.cuerpo{
+    background-color: blueviolet;
+}
